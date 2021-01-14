@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a computer engineer focused in Python and web development. I'm also doing a master in security and trying to figure out how to fill this page.
+
+Programming languages I do are the same on this repo. My main work is with Django, Docker and SQL databases with Linux and I have interests in IoT and semantics.
+
+* Email: pablo.riutort_at_gmail.com
+* [LinkedIn](https://www.linkedin.com/in/pabloritutort/)
+* [CV](https://raw.githubusercontent.com/pablorgr/pablorgr.github.io/CV/cv.pdf)
