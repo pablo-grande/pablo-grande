@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer engineer focused in Python and web development. Figuring out how to fill this page.
+I'm a developer currently working in Madrid, Spain.
 
-My main work is with Django, Docker and SQL databases with Linux. I have interests in IoT and semantics.
 
+* Developer at Vodafone innovation team.
+* Mainly using Python
+* Computer engineering. 
 * Email: pablo.riutort_at_gmail.com
 * [LinkedIn](https://www.linkedin.com/in/pabloritutort/)
 * [CV](https://raw.githubusercontent.com/pablorgr/pablorgr.github.io/CV/cv.pdf)
