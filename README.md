@@ -1,11 +1,11 @@
-### Hi there 👋
+### About me
 
 <!--
 **pablorgr/pablorgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’Master's degree in Information and Communication Technology Security. _Open University of Catalonia_...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,12 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a developer currently working in Madrid, Spain.
+I'm a software developer working and living in Madrid, Spain.  
+Background as a web developer and full stack, currently working at Vodafone innovation team as a software developer.   
+I have interests in artificial intelligence, IoT and security and I rather work with Python and Linux.
+
+__doing__: Flask, MQTT, Kubernetes, JavaScript, JSON, MongoDB.   
+
+__would love to__: work in an open source project, publish or patent something, pursue a PhD.
 
 
-* Developer at Vodafone innovation team.
-* Mainly using Python
-* Computer engineering. 
-* Email: pablo.riutort_at_gmail.com
+### Education
+* Degree in computer engineering
+* Master's degree in Information and Communication Technology Security
+* (current) Inter-University Master's Degree in Computational Engineering and Mathematics 
+
+### How to reach me
 * [LinkedIn](https://www.linkedin.com/in/pabloritutort/)
 * [CV](https://raw.githubusercontent.com/pablorgr/pablorgr.github.io/CV/cv.pdf)
+* pablo.riutort_at_gmail.com
