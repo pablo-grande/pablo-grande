@@ -1,0 +1,155 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\usepackage[utf8]{inputenc}
+\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+%\usepackage{fontspec}
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+\setlength{\hintscolumnwidth}{4cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Pablo} % Your first name
+\familyname{Riutort Grande} % Your last name
+
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+
+
+%----------------------------------------------------------------------------------------
+%	CURRICULUM VITAE
+%----------------------------------------------------------------------------------------
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	INFO SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Contacto}
+
+\cvitem{Teléfono}{+34 693 948 133}
+\cvitem{Email}{pablo.riutort@gmail.com}
+\cvitem{Web}{\href{https://github.com/pablorgr}{github.com/pablorgr}}
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Educación}
+
+\cventry{Cursando}{Máster Universitario}{Máster interuniversitario en Ingeniería Computacional y Matemática}{URV-UOC}{}{}
+\cventry{}{Máster Universitario}{Seguridad de las Tecnologías de la Información y de las Comunicaciones}{Interuniversitario: UOC, UAB, URV}{}{}
+\cventry{}{Grado en Ingeniería Informática}{Mención en Tecnologías de la Información}{Universitat de les Illes Balears}{UIB}{}
+\cventry{}{Beca EUROWEB+}{Computer Science and Informatics}{Faculty of Electronic Engineering}{Univerity of Nis}{} % Arguments not required can be left empty
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Experiencia}
+
+\cventry{2021}{Specialist SW Network as a Platform}{\textsc{Vodafone}}{Madrid}{}{
+\begin{itemize}
+\item Desarrollador backend en Flask y Kubernetes.
+\item Desarrollo de proyectos de innovación con MQTT, Python y JavaScript.
+\item Mantenimiento de proyectos y core con Python y bash.
+\end{itemize}
+}
+\cventry{2019 - 2021}{Desarrollador Python}{\textsc{Qvantel}}{Madrid}{}{
+\begin{itemize}
+\item Desarrollador backend en Django con mariadb, docker-compose y RabbitMQ.
+\item Desarrollo de soluciones a medida con Python, Bottle, jQuery y robot framework.
+\item Implantación de TDD en el ciclo de desarrollo.
+\item Mantenimiento de proyectos y core con Python y bash.
+\end{itemize}
+}
+\cventry{2018--2019}{Desarrollador Python}{\textsc{SMACH Team}}{Palma de Mallorca - Parc Bit}{}{Desarrollo de aplicaciones y backend}
+\cventry{2017--2018}{Ingeniero de software}{\textsc{SmartUIB}}{Universidad de las Islas Baleares}{}{Creación y desarrollo proyectos en el marco de \textit{Smart Cities}, eficiencia energética e IoT.
+\begin{itemize}
+\item Web Services SOAP con el protocolo OCPP.
+\item Integraciones con sensores y otros servicios mediante Python para el sistema de Sentilo.
+\item Elasticsearch y Kibana para visualización de datos.
+\item Desarrollo de APIs y dashboards para el control de dispositivos IoT.
+\end{itemize}
+}
+
+\cventry{2014--2016}{Desarrollador full stack}{\textsc{Civitfun}}{Palma de Mallorca - Parc Bit}{}{Desarrollo de la web \href{http://civitfun.com/en/}{civitfun.com} especialmente en tareas de backend, integraciones y diseño y mantenimiento de bases de datos.}
+
+\cventry{2013--2014}{Desarrollador web}{\textsc{Mola}}{Palma de Mallorca - Parc Bit}{Becado por Talentum Startups}{Me inicié en el desarrollo web gracias a las tareas de mantenimiento en backend y de diseño en los proyectos que se crearon en esta incubadora.}
+
+
+\section{Méritos}
+\cventry{2013}{Beca Talentum Startups}{\textsc{Telefónica}}{}{}{Talentum Startups es una beca para estudiantes que quieran mejorar la sociedad a través de la tecnología. Los estudiantes seleccionados pueden desarrollar sus ideas en una Startup asociada al programa.}
+
+%------------------------------------------------
+%	SKILLZ
+%----------------------------------------------------------------------------------------
+
+\section{Habilidades}
+\cvitem{Programación}{Python, JavaScript, Bash, PHP, Java}
+\cvitem{Bases de Datos}{mariadb, MySQL, sqlite, MongoDB}
+\cvitem{Frameworks}{Django, Flask, Bottle, jQuery, Laravel}
+\cvitem{Frontend}{HTML/CSS, Bootstrap, QML}
+\cvitem{}{Git, Linux, Docker, REST, JSON, RabbitMQ, XML, SOAP, MQTT, Kafka}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Idiomas}
+
+\cvitem{Español}{Lengua materna}
+\cvitem{Catalán}{Nivel B2}
+\cvitem{Inglés}{Nivel B2}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Datos de interés}
+\cvitem{}{Disponibilidad para viajar al extranjero}
+\cvitem{}{Permiso de conducir tipo B}
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
