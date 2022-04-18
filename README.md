@@ -30,5 +30,5 @@ __would love to__: work in an open source project, publish or patent something, 
 
 ### How to reach me
 * [LinkedIn](https://www.linkedin.com/in/pabloritutort/)
-* [CV](https://raw.githubusercontent.com/pablorgr/pablorgr.github.io/CV/cv.pdf)
+* [CV](https://github.com/pablorgr/pablorgr/raw/CV/en_cv.pdf)
 * pablo.riutort_at_gmail.com
