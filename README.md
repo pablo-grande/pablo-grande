@@ -29,6 +29,6 @@ __would love to__: work in an open source project, publish or patent something, 
 * (current) Inter-University Master's Degree in Computational Engineering and Mathematics 
 
 ### How to reach me
-* [LinkedIn](https://www.linkedin.com/in/pabloritutort/)
+* [LinkedIn](https://www.linkedin.com/in/pablorgrande/)
 * CV: [:uk: en](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_en.pdf), [:es: es](https://github.com/pablor-grande/pablor-grande/raw/CV/cv_es.pdf)
 * pablo.grande_at_proton.me
