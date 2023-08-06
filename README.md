@@ -30,4 +30,5 @@ __would love to__: work in an open source project, publish or patent, pursue a P
 
 ### How to reach me
 * [LinkedIn](https://www.linkedin.com/in/pablorgrande/)
+* <a rel="me" href="https://mastodon.social/@pablogr">Mastodon</a>
 * pablo.grande_at_proton.me
