@@ -26,7 +26,7 @@ __would love to__: work in an open source project, publish or patent, pursue a P
 ### Education
 * Degree in computer engineering
 * Master's degree in Information and Communication Technology Security
-* (current) Inter-University Master's Degree in Computational Engineering and Mathematics 
+* Inter-University Master's Degree in Computational Engineering and Mathematics 
 
 ### How to reach me
 * [LinkedIn](https://www.linkedin.com/in/pablorgrande/)
