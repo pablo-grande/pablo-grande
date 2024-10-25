@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 Software engineer working and living in Madrid, Spain. Currently working in 5G network innovation at Vodafone.   
 I have interests in artificial intelligence, IoT and security and I rather work with Python and Linux.
 
-__doing__: Flask, MQTT, Kubernetes, JavaScript, JSON, MongoDB.   
-
-__would love to__: work in an open source project, publish or patent, pursue a PhD.
+__doing__: Python, Flask, MQTT, Kubernetes.
 
 [CV :es:](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_es.pdf)
 
