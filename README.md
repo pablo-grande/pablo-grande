@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software engineer working and living in Madrid, Spain. Currently working in 5G network innovation at Vodafone.   
-I have interests in artificial intelligence, IoT and security and I rather work with Python and Linux.
+Software engineer working and living in Västerås, Sweden. Currently working in industrial networks at ABB Corporate Research.   
 
-__doing__: Python, Flask, MQTT, Kubernetes.
-
-[CV :es:](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_es.pdf)
+<!-- [CV :es:](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_es.pdf)-->
 
 ### Education
 * Degree in computer engineering
