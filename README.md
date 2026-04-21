@@ -18,11 +18,11 @@ Software engineer working and living in Västerås, Sweden. Currently working in
 
 <!-- [CV :es:](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_es.pdf)-->
 
-### 🎓
+### Education
 * Degree in computer engineering
 * Master's degree in Information and Communication Technology Security
 * Inter-University Master's Degree in Computational Engineering and Mathematics 
 
-### ✉️
+### Reach me out
 * [LinkedIn](https://www.linkedin.com/in/pablorgrande/)
 * pablo.grande_at_proton.me
