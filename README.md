@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software engineer working and living in Västerås, Sweden. Currently working in industrial networks at ABB Corporate Research.   
+PhD Cybersecurity researcher at Luleå Tekniska Universitet  
 
 <!-- [CV :es:](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_es.pdf)-->
 
 ### Education
-* Degree in computer engineering
+* Bachelor's degree in computer engineering
 * Master's degree in Information and Communication Technology Security
-* Inter-University Master's Degree in Computational Engineering and Mathematics 
+* Master's Degree in Computational Engineering and Mathematics
 
 ### Reach me out
 * [LinkedIn](https://www.linkedin.com/in/pablorgrande/)
