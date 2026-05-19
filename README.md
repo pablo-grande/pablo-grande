@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-PhD Cybersecurity researcher at Luleå Tekniska Universitet  
+
+PhD Cybersecurity researcher at Luleå Tekniska Universitet.
 
 <!-- [CV :es:](https://github.com/pablo-grande/pablo-grande/raw/CV/cv_es.pdf)-->
 
-### Education
+### Did
+Software engineering but also
 * Bachelor's degree in computer engineering
 * Master's degree in Information and Communication Technology Security
-* Master's Degree in Computational Engineering and Mathematics
-
-### Reach me out
-* [LinkedIn](https://www.linkedin.com/in/pablorgrande/)
-* pablo.grande_at_proton.me
+* Master's degree in Computational Engineering and Mathematics
